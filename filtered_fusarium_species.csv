@@ -1,0 +1,1541 @@
+Species,Process,Cardinal,Temperature
+Fusarium acuminatum,disease development,min,20.0
+Fusarium acuminatum,disease development,opt,24.0
+Fusarium acuminatum,growth in culture,max,37.5
+Fusarium acuminatum,growth in culture,max,35.75
+Fusarium acuminatum,growth in culture,max,36.0
+Fusarium acuminatum,growth in culture,min,5.0
+Fusarium acuminatum,growth in culture,min,5.0
+Fusarium acuminatum,growth in culture,opt,21.0
+Fusarium acuminatum,growth in culture,opt,20.0
+Fusarium acuminatum,growth in culture,max,35.75
+Fusarium acuminatum,growth in culture,min,5.0
+Fusarium acuminatum,growth in culture,max,36.0
+Fusarium acuminatum,growth in culture,max,34.0
+Fusarium acuminatum,growth in culture,max,34.0
+Fusarium acuminatum,growth in culture,min,8.0
+Fusarium acuminatum,growth in culture,min,5.0
+Fusarium acuminatum,growth in culture,min,5.0
+Fusarium acuminatum,growth in culture,opt,26.0
+Fusarium alluviale,growth in culture,max,37.5
+Fusarium alluviale,growth in culture,min,5.0
+Fusarium anguioides,growth in culture,max,33.0
+Fusarium anguioides,growth in culture,min,3.0
+Fusarium anguioides,growth in culture,opt,21.5
+Fusarium anguioides,sporulation,max,25.0
+Fusarium anguioides,sporulation,min,5.0
+Fusarium anguioides,sporulation,opt,14.0
+Fusarium annuum,growth in culture,max,37.0
+Fusarium annuum,growth in culture,min,17.0
+Fusarium annuum,growth in culture,opt,27.0
+Fusarium annuum,growth in culture,opt,31.0
+Fusarium anthophilum,growth in culture,max,37.5
+Fusarium anthophilum,growth in culture,min,5.0
+Fusarium arthrosporioides,growth in culture,max,33.0
+Fusarium arthrosporioides,growth in culture,min,3.0
+Fusarium arthrosporioides,growth in culture,opt,21.0
+Fusarium arthrosporioides,growth in culture,opt,20.0
+Fusarium avenaceum,growth in culture,max,38.0
+Fusarium avenaceum,growth in culture,max,38.0
+Fusarium avenaceum,growth in culture,max,34.0
+Fusarium avenaceum,growth in culture,max,34.0
+Fusarium avenaceum,growth in culture,max,34.0
+Fusarium avenaceum,growth in culture,max,34.0
+Fusarium avenaceum,growth in culture,max,37.5
+Fusarium avenaceum,growth in culture,max,37.0
+Fusarium avenaceum,growth in culture,max,37.0
+Fusarium avenaceum,growth in culture,max,32.0
+Fusarium avenaceum,growth in culture,max,32.0
+Fusarium avenaceum,growth in culture,min,0.5
+Fusarium avenaceum,growth in culture,min,-10.0
+Fusarium avenaceum,growth in culture,min,5.0
+Fusarium avenaceum,growth in culture,min,5.0
+Fusarium avenaceum,growth in culture,min,5.0
+Fusarium avenaceum,growth in culture,min,5.0
+Fusarium avenaceum,growth in culture,min,5.0
+Fusarium avenaceum,growth in culture,min,5.0
+Fusarium avenaceum,growth in culture,min,7.0
+Fusarium avenaceum,growth in culture,min,7.0
+Fusarium avenaceum,growth in culture,opt,26.0
+Fusarium avenaceum,growth in culture,opt,26.0
+Fusarium avenaceum,growth in culture,opt,22.5
+Fusarium avenaceum,growth in culture,opt,22.5
+Fusarium avenaceum,growth in culture,opt,27.0
+Fusarium avenaceum,growth in culture,opt,27.0
+Fusarium avenaceum,infection,opt,14.0
+Fusarium caeruleum,growth in culture,max,35.0
+Fusarium caeruleum,growth in culture,min,10.0
+Fusarium caeruleum,growth in culture,opt,20.0
+Fusarium caeruleum,disease development,max,25.0
+Fusarium caeruleum,disease development,max,38.0
+Fusarium caeruleum,disease development,min,0.0
+Fusarium caeruleum,disease development,min,7.0
+Fusarium caeruleum,disease development,opt,17.5
+Fusarium caeruleum,growth in culture,max,34.0
+Fusarium caeruleum,growth in culture,max,37.5
+Fusarium caeruleum,growth in culture,max,37.5
+Fusarium caeruleum,growth in culture,max,37.5
+Fusarium caeruleum,growth in culture,max,30.0
+Fusarium caeruleum,growth in culture,min,5.0
+Fusarium caeruleum,growth in culture,min,5.0
+Fusarium caeruleum,growth in culture,min,5.0
+Fusarium caeruleum,growth in culture,min,5.0
+Fusarium caeruleum,growth in culture,min,5.0
+Fusarium caeruleum,growth in culture,opt,20.0
+Fusarium caeruleum,infection,opt,20.0
+Fusarium callistephi,disease development,max,32.0
+Fusarium callistephi,disease development,min,17.0
+Fusarium callistephi,disease development,opt,22.5
+Fusarium callistephi,infection,max,32.0
+Fusarium callistephi,infection,min,17.0
+Fusarium callistephi,infection,opt,22.5
+Fusarium camptoceras,growth in culture,max,35.75
+Fusarium camptoceras,growth in culture,max,35.75
+Fusarium camptoceras,growth in culture,min,5.0
+Fusarium camptoceras,growth in culture,min,5.0
+Fusarium chlamydosporum,growth in culture,max,37.5
+Fusarium chlamydosporum,growth in culture,max,37.5
+Fusarium chlamydosporum,growth in culture,max,37.5
+Fusarium chlamydosporum,growth in culture,min,5.0
+Fusarium chlamydosporum,growth in culture,min,5.0
+Fusarium chlamydosporum,growth in culture,min,5.0
+Fusarium citrulli,growth in culture,opt,23.5
+Fusarium commutatum,growth in culture,max,34.0
+Fusarium commutatum,growth in culture,min,5.0
+Fusarium cromyophthoron,growth in culture,opt,28.0
+Fusarium culmorum,disease development,max,16.9
+Fusarium culmorum,disease development,min,8.0
+Fusarium culmorum,disease development,opt,10.6
+Fusarium culmorum,disease development,opt,24.0
+Fusarium culmorum,growth in culture,max,38.0
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,37.5
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,35.75
+Fusarium culmorum,growth in culture,max,34.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,34.5
+Fusarium culmorum,growth in culture,max,36.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,max,32.0
+Fusarium culmorum,growth in culture,min,0.5
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,5.0
+Fusarium culmorum,growth in culture,min,4.0
+Fusarium culmorum,growth in culture,min,3.0
+Fusarium culmorum,growth in culture,min,9.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,min,7.0
+Fusarium culmorum,growth in culture,opt,26.0
+Fusarium culmorum,growth in culture,opt,26.0
+Fusarium culmorum,growth in culture,opt,25.5
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium culmorum,growth in culture,opt,27.0
+Fusarium diversisporum,growth in culture,max,35.75
+Fusarium diversisporum,growth in culture,min,5.0
+Fusarium ensiforme,growth in culture,max,35.75
+Fusarium ensiforme,growth in culture,min,5.0
+Fusarium equiseti,growth in culture,max,37.5
+Fusarium equiseti,growth in culture,max,37.5
+Fusarium equiseti,growth in culture,max,34.0
+Fusarium equiseti,growth in culture,min,5.0
+Fusarium equiseti,growth in culture,min,5.0
+Fusarium equiseti,growth in culture,min,5.0
+Fusarium filiferum,growth in culture,max,34.0
+Fusarium filiferum,growth in culture,max,34.0
+Fusarium filiferum,growth in culture,min,5.0
+Fusarium filiferum,growth in culture,min,5.0
+Fusarium flocciferum,growth in culture,max,35.75
+Fusarium flocciferum,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,max,40.0
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,opt,30.0
+Fusarium fujikuroi,growth in culture,opt,25.0
+Fusarium fujikuroi,disease development,min,20.0
+Fusarium fujikuroi,disease development,min,9.0
+Fusarium fujikuroi,disease development,opt,29.5
+Fusarium fujikuroi,disease development,opt,30.0
+Fusarium fujikuroi,disease development,opt,30.0
+Fusarium fujikuroi,disease development,opt,35.0
+Fusarium fujikuroi,disease development,opt,35.0
+Fusarium fujikuroi,disease development,opt,30.0
+Fusarium fujikuroi,fructification,max,30.0
+Fusarium fujikuroi,fructification,min,10.0
+Fusarium fujikuroi,fructification,opt,27.5
+Fusarium fujikuroi,fructification,opt,27.5
+Fusarium fujikuroi,fructification,opt,26.0
+Fusarium fujikuroi,fructification,opt,27.5
+Fusarium fujikuroi,growth in culture,max,38.0
+Fusarium fujikuroi,growth in culture,max,36.25
+Fusarium fujikuroi,growth in culture,max,36.25
+Fusarium fujikuroi,growth in culture,max,30.0
+Fusarium fujikuroi,growth in culture,max,40.0
+Fusarium fujikuroi,growth in culture,max,34.0
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,35.5
+Fusarium fujikuroi,growth in culture,max,35.5
+Fusarium fujikuroi,growth in culture,max,35.5
+Fusarium fujikuroi,growth in culture,max,35.5
+Fusarium fujikuroi,growth in culture,max,36.0
+Fusarium fujikuroi,growth in culture,max,34.5
+Fusarium fujikuroi,growth in culture,max,35.0
+Fusarium fujikuroi,growth in culture,max,35.0
+Fusarium fujikuroi,growth in culture,max,37.5
+Fusarium fujikuroi,growth in culture,max,37.0
+Fusarium fujikuroi,growth in culture,min,3.5
+Fusarium fujikuroi,growth in culture,min,6.0
+Fusarium fujikuroi,growth in culture,min,9.25
+Fusarium fujikuroi,growth in culture,min,10.0
+Fusarium fujikuroi,growth in culture,min,22.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,5.0
+Fusarium fujikuroi,growth in culture,min,7.5
+Fusarium fujikuroi,growth in culture,min,7.5
+Fusarium fujikuroi,growth in culture,min,3.0
+Fusarium fujikuroi,growth in culture,min,9.0
+Fusarium fujikuroi,growth in culture,min,7.5
+Fusarium fujikuroi,growth in culture,min,12.0
+Fusarium fujikuroi,growth in culture,opt,30.0
+Fusarium fujikuroi,growth in culture,opt,29.5
+Fusarium fujikuroi,growth in culture,opt,26.0
+Fusarium fujikuroi,growth in culture,opt,27.5
+Fusarium fujikuroi,growth in culture,opt,25.5
+Fusarium fujikuroi,growth in culture,opt,29.0
+Fusarium fujikuroi,growth in culture,opt,27.0
+Fusarium fujikuroi,growth in culture,opt,25.5
+Fusarium fujikuroi,growth in culture,opt,29.0
+Fusarium fujikuroi,growth in culture,opt,27.0
+Fusarium fujikuroi,growth in culture,opt,30.0
+Fusarium fujikuroi,growth in culture,opt,27.0
+Fusarium fujikuroi,growth in culture,opt,28.0
+Fusarium fujikuroi,growth in culture,opt,25.0
+Fusarium fujikuroi,growth in culture,opt,26.5
+Fusarium fujikuroi,growth in culture,opt,30.0
+Fusarium fujikuroi,growth in culture,opt,30.0
+Fusarium fujikuroi,infection,max,23.0
+Fusarium fujikuroi,infection,min,20.0
+Fusarium fujikuroi,infection,min,9.0
+Fusarium fujikuroi,infection,opt,29.5
+Fusarium fujikuroi,infection,opt,30.0
+Fusarium fujikuroi,infection,opt,30.0
+Fusarium fujikuroi,infection,opt,35.0
+Fusarium fujikuroi,infection,opt,35.0
+Fusarium fujikuroi,infection,opt,30.0
+Fusarium fujikuroi,spore germination,max,37.0
+Fusarium fujikuroi,spore germination,min,9.5
+Fusarium fujikuroi,spore germination,opt,30.0
+Fusarium fujikuroi,spore germination,opt,30.0
+Fusarium gemmiperda,growth in culture,max,37.5
+Fusarium gemmiperda,growth in culture,min,5.0
+Fusarium gibbosum,disease development,min,14.0
+Fusarium gibbosum,disease development,opt,28.0
+Fusarium gibbosum,growth in culture,max,37.5
+Fusarium gibbosum,growth in culture,max,37.5
+Fusarium gibbosum,growth in culture,max,37.5
+Fusarium gibbosum,growth in culture,min,5.0
+Fusarium gibbosum,growth in culture,min,5.0
+Fusarium gibbosum,growth in culture,min,5.0
+Fusarium gibbosum,growth in culture,opt,28.0
+Fusarium gibbosum,growth in culture,max,34.0
+Fusarium gibbosum,growth in culture,min,5.0
+Fusarium graminearum,disease development,max,34.0
+Fusarium graminearum,disease development,max,34.0
+Fusarium graminearum,disease development,max,34.0
+Fusarium graminearum,disease development,max,34.0
+Fusarium graminearum,disease development,max,34.0
+Fusarium graminearum,disease development,max,26.0
+Fusarium graminearum,disease development,max,26.0
+Fusarium graminearum,disease development,max,26.0
+Fusarium graminearum,disease development,max,26.0
+Fusarium graminearum,disease development,max,31.5
+Fusarium graminearum,disease development,min,10.0
+Fusarium graminearum,disease development,min,10.0
+Fusarium graminearum,disease development,min,10.0
+Fusarium graminearum,disease development,min,10.0
+Fusarium graminearum,disease development,min,10.0
+Fusarium graminearum,disease development,min,12.5
+Fusarium graminearum,disease development,opt,26.0
+Fusarium graminearum,disease development,opt,26.0
+Fusarium graminearum,disease development,opt,26.0
+Fusarium graminearum,disease development,opt,26.0
+Fusarium graminearum,disease development,opt,26.0
+Fusarium graminearum,disease development,opt,12.0
+Fusarium graminearum,disease development,opt,24.0
+Fusarium graminearum,disease development,opt,12.0
+Fusarium graminearum,disease development,opt,12.0
+Fusarium graminearum,disease development,opt,12.0
+Fusarium graminearum,disease development,opt,28.0
+Fusarium graminearum,fructification,max,37.0
+Fusarium graminearum,fructification,max,34.0
+Fusarium graminearum,fructification,max,27.5
+Fusarium graminearum,fructification,max,34.0
+Fusarium graminearum,fructification,min,4.0
+Fusarium graminearum,fructification,min,12.5
+Fusarium graminearum,fructification,min,4.0
+Fusarium graminearum,fructification,opt,24.0
+Fusarium graminearum,fructification,opt,26.0
+Fusarium graminearum,fructification,opt,26.0
+Fusarium graminearum,fructification,opt,20.0
+Fusarium graminearum,fructification,opt,20.0
+Fusarium graminearum,growth in culture,max,37.0
+Fusarium graminearum,growth in culture,max,34.0
+Fusarium graminearum,growth in culture,max,34.0
+Fusarium graminearum,growth in culture,max,33.0
+Fusarium graminearum,growth in culture,max,34.0
+Fusarium graminearum,growth in culture,max,34.0
+Fusarium graminearum,growth in culture,max,34.0
+Fusarium graminearum,growth in culture,max,37.0
+Fusarium graminearum,growth in culture,max,33.0
+Fusarium graminearum,growth in culture,max,33.0
+Fusarium graminearum,growth in culture,max,34.5
+Fusarium graminearum,growth in culture,max,34.5
+Fusarium graminearum,growth in culture,max,34.5
+Fusarium graminearum,growth in culture,max,36.0
+Fusarium graminearum,growth in culture,max,36.0
+Fusarium graminearum,growth in culture,max,36.0
+Fusarium graminearum,growth in culture,max,32.0
+Fusarium graminearum,growth in culture,max,32.0
+Fusarium graminearum,growth in culture,max,32.0
+Fusarium graminearum,growth in culture,max,32.0
+Fusarium graminearum,growth in culture,max,32.0
+Fusarium graminearum,growth in culture,max,32.0
+Fusarium graminearum,growth in culture,min,7.5
+Fusarium graminearum,growth in culture,min,3.5
+Fusarium graminearum,growth in culture,min,3.5
+Fusarium graminearum,growth in culture,min,3.5
+Fusarium graminearum,growth in culture,min,3.5
+Fusarium graminearum,growth in culture,min,5.0
+Fusarium graminearum,growth in culture,min,3.0
+Fusarium graminearum,growth in culture,min,5.0
+Fusarium graminearum,growth in culture,min,3.0
+Fusarium graminearum,growth in culture,min,3.0
+Fusarium graminearum,growth in culture,min,3.0
+Fusarium graminearum,growth in culture,min,3.0
+Fusarium graminearum,growth in culture,min,6.0
+Fusarium graminearum,growth in culture,min,6.0
+Fusarium graminearum,growth in culture,min,6.0
+Fusarium graminearum,growth in culture,min,7.0
+Fusarium graminearum,growth in culture,min,7.0
+Fusarium graminearum,growth in culture,min,7.0
+Fusarium graminearum,growth in culture,min,7.0
+Fusarium graminearum,growth in culture,min,7.0
+Fusarium graminearum,growth in culture,min,7.0
+Fusarium graminearum,growth in culture,opt,24.0
+Fusarium graminearum,growth in culture,opt,26.0
+Fusarium graminearum,growth in culture,opt,26.0
+Fusarium graminearum,growth in culture,opt,22.5
+Fusarium graminearum,growth in culture,opt,28.0
+Fusarium graminearum,growth in culture,opt,28.0
+Fusarium graminearum,growth in culture,opt,26.0
+Fusarium graminearum,growth in culture,opt,26.0
+Fusarium graminearum,growth in culture,opt,26.0
+Fusarium graminearum,growth in culture,opt,22.5
+Fusarium graminearum,growth in culture,opt,26.0
+Fusarium graminearum,growth in culture,opt,30.0
+Fusarium graminearum,growth in culture,opt,30.0
+Fusarium graminearum,growth in culture,opt,25.5
+Fusarium graminearum,growth in culture,opt,25.5
+Fusarium graminearum,growth in culture,opt,25.5
+Fusarium graminearum,growth in culture,opt,25.5
+Fusarium graminearum,growth in culture,opt,30.0
+Fusarium graminearum,growth in culture,opt,37.0
+Fusarium graminearum,growth in culture,opt,27.0
+Fusarium graminearum,growth in culture,opt,27.0
+Fusarium graminearum,growth in culture,opt,27.0
+Fusarium graminearum,growth in culture,opt,27.0
+Fusarium graminearum,growth in culture,opt,27.0
+Fusarium graminearum,growth in culture,opt,27.0
+Fusarium graminearum,infection,max,34.0
+Fusarium graminearum,infection,max,34.0
+Fusarium graminearum,infection,max,34.0
+Fusarium graminearum,infection,max,34.0
+Fusarium graminearum,infection,max,34.0
+Fusarium graminearum,infection,max,26.0
+Fusarium graminearum,infection,max,39.0
+Fusarium graminearum,infection,max,26.0
+Fusarium graminearum,infection,max,26.0
+Fusarium graminearum,infection,max,26.0
+Fusarium graminearum,infection,max,31.5
+Fusarium graminearum,infection,min,10.0
+Fusarium graminearum,infection,min,10.0
+Fusarium graminearum,infection,min,10.0
+Fusarium graminearum,infection,min,10.0
+Fusarium graminearum,infection,min,10.0
+Fusarium graminearum,infection,min,12.5
+Fusarium graminearum,infection,opt,26.0
+Fusarium graminearum,infection,opt,26.0
+Fusarium graminearum,infection,opt,26.0
+Fusarium graminearum,infection,opt,26.0
+Fusarium graminearum,infection,opt,26.0
+Fusarium graminearum,infection,opt,12.0
+Fusarium graminearum,infection,opt,24.0
+Fusarium graminearum,infection,opt,12.0
+Fusarium graminearum,infection,opt,12.0
+Fusarium graminearum,infection,opt,12.0
+Fusarium graminearum,infection,opt,28.0
+Fusarium graminearum,spore germination,max,32.0
+Fusarium graminearum,spore germination,max,32.0
+Fusarium graminearum,spore germination,max,32.0
+Fusarium graminearum,spore germination,max,32.0
+Fusarium graminearum,spore germination,min,5.0
+Fusarium graminearum,spore germination,min,5.0
+Fusarium graminearum,spore germination,min,8.0
+Fusarium graminearum,spore germination,min,8.0
+Fusarium graminearum,spore germination,min,4.0
+Fusarium graminearum,spore germination,min,8.0
+Fusarium graminearum,spore germination,opt,26.0
+Fusarium graminearum,spore germination,opt,25.0
+Fusarium graminearum,spore germination,opt,28.0
+Fusarium graminearum,spore germination,opt,30.0
+Fusarium graminum,growth in culture,max,34.0
+Fusarium graminum,growth in culture,max,37.5
+Fusarium graminum,growth in culture,max,34.0
+Fusarium graminum,growth in culture,min,5.0
+Fusarium graminum,growth in culture,min,5.0
+Fusarium graminum,growth in culture,min,5.0
+Fusarium graminum,growth in culture,opt,34.0
+Fusarium hyperoxysporum,growth in culture,max,37.5
+Fusarium hyperoxysporum,growth in culture,max,37.5
+Fusarium hyperoxysporum,growth in culture,min,5.0
+Fusarium hyperoxysporum,growth in culture,min,5.0
+Fusarium incarnatum,disease development,min,7.2
+Fusarium incarnatum,disease development,opt,23.9
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,34.5
+Fusarium incarnatum,growth in culture,max,34.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,37.5
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.0
+Fusarium incarnatum,growth in culture,max,34.15
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.0
+Fusarium incarnatum,growth in culture,min,5.55
+Fusarium incarnatum,growth in culture,opt,23.9
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,opt,23.0
+Fusarium lateritium,growth in culture,opt,24.0
+Fusarium lateritium,growth in culture,opt,23.0
+Fusarium lateritium,growth in culture,opt,24.0
+Fusarium lateritium,disease development,opt,12.5
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,35.75
+Fusarium lateritium,growth in culture,max,32.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,max,34.0
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lateritium,growth in culture,max,35.75
+Fusarium lateritium,growth in culture,min,5.0
+Fusarium lolii,growth in culture,max,37.5
+Fusarium lolii,growth in culture,max,34.0
+Fusarium lolii,growth in culture,max,34.0
+Fusarium lolii,growth in culture,min,5.0
+Fusarium lolii,growth in culture,min,5.0
+Fusarium lolii,growth in culture,min,5.0
+Fusarium longipes,growth in culture,max,37.5
+Fusarium longipes,growth in culture,min,5.0
+Fusarium luteum,growth in culture,max,35.0
+Fusarium luteum,growth in culture,min,19.0
+Fusarium macroceras,growth in culture,max,35.75
+Fusarium macroceras,growth in culture,min,5.0
+Fusarium neoceras,growth in culture,max,35.75
+Fusarium neoceras,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,min,18.0
+Fusarium oxysporum,infection,opt,26.0
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,disease development,max,35.0
+Fusarium oxysporum,disease development,min,12.0
+Fusarium oxysporum,disease development,min,9.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,growth in culture,max,40.0
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,36.0
+Fusarium oxysporum,growth in culture,max,34.5
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,infection,max,35.0
+Fusarium oxysporum,infection,min,20.0
+Fusarium oxysporum,infection,min,12.0
+Fusarium oxysporum,infection,min,9.0
+Fusarium oxysporum,infection,opt,32.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,min,21.0
+Fusarium oxysporum,disease development,min,21.0
+Fusarium oxysporum,disease development,min,21.0
+Fusarium oxysporum,disease development,min,21.0
+Fusarium oxysporum,disease development,min,21.0
+Fusarium oxysporum,disease development,opt,28.5
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,disease development,opt,29.0
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,38.0
+Fusarium oxysporum,growth in culture,max,38.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,32.5
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,min,9.5
+Fusarium oxysporum,growth in culture,min,9.5
+Fusarium oxysporum,growth in culture,min,6.0
+Fusarium oxysporum,growth in culture,min,6.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,29.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,28.5
+Fusarium oxysporum,growth in culture,opt,25.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,min,21.0
+Fusarium oxysporum,infection,min,21.0
+Fusarium oxysporum,infection,min,21.0
+Fusarium oxysporum,infection,min,21.0
+Fusarium oxysporum,infection,min,21.0
+Fusarium oxysporum,infection,opt,28.5
+Fusarium oxysporum,infection,opt,28.0
+Fusarium oxysporum,infection,opt,28.0
+Fusarium oxysporum,infection,opt,28.0
+Fusarium oxysporum,infection,opt,28.0
+Fusarium oxysporum,infection,opt,29.0
+Fusarium oxysporum,infection,opt,28.0
+Fusarium oxysporum,infection,opt,28.0
+Fusarium oxysporum,disease development,max,35.0
+Fusarium oxysporum,disease development,max,25.0
+Fusarium oxysporum,disease development,min,16.5
+Fusarium oxysporum,disease development,min,16.0
+Fusarium oxysporum,disease development,min,17.0
+Fusarium oxysporum,disease development,min,17.0
+Fusarium oxysporum,disease development,opt,20.0
+Fusarium oxysporum,disease development,opt,22.5
+Fusarium oxysporum,disease development,opt,27.5
+Fusarium oxysporum,disease development,opt,23.5
+Fusarium oxysporum,growth in culture,max,34.0
+Fusarium oxysporum,growth in culture,max,34.0
+Fusarium oxysporum,growth in culture,max,38.0
+Fusarium oxysporum,growth in culture,max,38.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,36.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,10.25
+Fusarium oxysporum,growth in culture,min,8.0
+Fusarium oxysporum,growth in culture,min,8.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,infection,max,35.0
+Fusarium oxysporum,infection,max,25.0
+Fusarium oxysporum,infection,min,16.5
+Fusarium oxysporum,infection,min,16.0
+Fusarium oxysporum,infection,min,17.0
+Fusarium oxysporum,infection,min,17.0
+Fusarium oxysporum,infection,min,20.0
+Fusarium oxysporum,infection,opt,20.0
+Fusarium oxysporum,infection,opt,22.5
+Fusarium oxysporum,infection,opt,27.5
+Fusarium oxysporum,infection,opt,23.5
+Fusarium oxysporum,spore germination,max,40.0
+Fusarium oxysporum,spore germination,max,36.0
+Fusarium oxysporum,spore germination,min,10.0
+Fusarium oxysporum,spore germination,opt,30.0
+Fusarium oxysporum,spore germination,opt,28.0
+Fusarium oxysporum,disease development,max,34.0
+Fusarium oxysporum,disease development,max,34.0
+Fusarium oxysporum,disease development,min,22.0
+Fusarium oxysporum,disease development,min,19.5
+Fusarium oxysporum,disease development,min,16.5
+Fusarium oxysporum,disease development,min,17.0
+Fusarium oxysporum,disease development,min,17.0
+Fusarium oxysporum,disease development,min,24.0
+Fusarium oxysporum,disease development,min,24.0
+Fusarium oxysporum,disease development,opt,26.5
+Fusarium oxysporum,disease development,opt,26.5
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,disease development,opt,28.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,34.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,min,7.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,11.0
+Fusarium oxysporum,growth in culture,min,7.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,22.5
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,infection,max,34.0
+Fusarium oxysporum,infection,max,34.0
+Fusarium oxysporum,infection,min,19.5
+Fusarium oxysporum,infection,min,17.0
+Fusarium oxysporum,infection,min,17.0
+Fusarium oxysporum,infection,opt,26.5
+Fusarium oxysporum,infection,opt,26.5
+Fusarium oxysporum,growth in culture,max,33.0
+Fusarium oxysporum,growth in culture,min,9.0
+Fusarium oxysporum,growth in culture,opt,25.5
+Fusarium oxysporum,disease development,min,14.0
+Fusarium oxysporum,disease development,opt,22.5
+Fusarium oxysporum,disease development,opt,32.0
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,opt,31.25
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,infection,min,17.0
+Fusarium oxysporum,infection,min,14.0
+Fusarium oxysporum,infection,opt,22.5
+Fusarium oxysporum,infection,opt,32.0
+Fusarium oxysporum,sporulation,min,14.0
+Fusarium oxysporum,sporulation,opt,26.5
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,opt,22.5
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,opt,35.0
+Fusarium oxysporum,disease development,max,38.0
+Fusarium oxysporum,disease development,max,38.0
+Fusarium oxysporum,disease development,min,12.2
+Fusarium oxysporum,disease development,min,12.0
+Fusarium oxysporum,disease development,min,12.0
+Fusarium oxysporum,disease development,min,12.5
+Fusarium oxysporum,disease development,min,12.5
+Fusarium oxysporum,disease development,opt,20.0
+Fusarium oxysporum,disease development,opt,20.0
+Fusarium oxysporum,growth in culture,max,35.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,35.5
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,min,7.0
+Fusarium oxysporum,growth in culture,min,10.5
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,10.5
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,opt,24.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,growth in culture,opt,29.25
+Fusarium oxysporum,growth in culture,opt,29.25
+Fusarium oxysporum,infection,max,38.0
+Fusarium oxysporum,infection,max,38.0
+Fusarium oxysporum,infection,min,12.2
+Fusarium oxysporum,infection,min,12.0
+Fusarium oxysporum,infection,min,12.0
+Fusarium oxysporum,infection,min,12.5
+Fusarium oxysporum,infection,min,12.5
+Fusarium oxysporum,infection,opt,20.0
+Fusarium oxysporum,infection,opt,20.0
+Fusarium oxysporum,spore germination,max,35.0
+Fusarium oxysporum,spore germination,min,7.0
+Fusarium oxysporum,spore germination,opt,21.0
+Fusarium oxysporum,spore germination,opt,30.0
+Fusarium oxysporum,disease development,max,30.0
+Fusarium oxysporum,disease development,min,11.0
+Fusarium oxysporum,disease development,min,14.0
+Fusarium oxysporum,disease development,opt,21.0
+Fusarium oxysporum,disease development,opt,21.0
+Fusarium oxysporum,disease development,opt,24.0
+Fusarium oxysporum,growth in culture,max,34.5
+Fusarium oxysporum,growth in culture,min,7.25
+Fusarium oxysporum,growth in culture,min,7.0
+Fusarium oxysporum,growth in culture,min,9.0
+Fusarium oxysporum,growth in culture,opt,28.5
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,opt,28.0
+Fusarium oxysporum,growth in culture,max,36.0
+Fusarium oxysporum,growth in culture,max,39.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,min,4.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,opt,27.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,22.5
+Fusarium oxysporum,growth in culture,opt,22.5
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,opt,20.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,opt,27.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,min,3.0
+Fusarium oxysporum,growth in culture,opt,25.0
+Fusarium oxysporum,infection,opt,25.0
+Fusarium oxysporum,disease development,max,34.5
+Fusarium oxysporum,disease development,max,34.5
+Fusarium oxysporum,disease development,min,17.5
+Fusarium oxysporum,disease development,min,17.5
+Fusarium oxysporum,disease development,opt,29.5
+Fusarium oxysporum,disease development,opt,29.5
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,34.0
+Fusarium oxysporum,growth in culture,min,7.0
+Fusarium oxysporum,growth in culture,min,7.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,opt,29.0
+Fusarium oxysporum,growth in culture,opt,29.0
+Fusarium oxysporum,infection,max,34.5
+Fusarium oxysporum,infection,max,34.5
+Fusarium oxysporum,infection,min,17.5
+Fusarium oxysporum,infection,min,17.5
+Fusarium oxysporum,infection,opt,29.5
+Fusarium oxysporum,infection,opt,29.5
+Fusarium oxysporum,disease development,max,35.0
+Fusarium oxysporum,disease development,max,35.0
+Fusarium oxysporum,disease development,min,10.0
+Fusarium oxysporum,disease development,min,5.0
+Fusarium oxysporum,disease development,min,18.0
+Fusarium oxysporum,disease development,min,12.0
+Fusarium oxysporum,disease development,min,18.0
+Fusarium oxysporum,disease development,min,25.0
+Fusarium oxysporum,disease development,opt,25.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,disease development,opt,30.5
+Fusarium oxysporum,disease development,opt,30.5
+Fusarium oxysporum,disease development,opt,14.0
+Fusarium oxysporum,disease development,opt,30.0
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,40.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,40.0
+Fusarium oxysporum,growth in culture,max,37.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,39.0
+Fusarium oxysporum,growth in culture,max,36.0
+Fusarium oxysporum,growth in culture,max,36.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,35.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,9.5
+Fusarium oxysporum,growth in culture,min,9.5
+Fusarium oxysporum,growth in culture,min,4.0
+Fusarium oxysporum,growth in culture,min,4.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,4.0
+Fusarium oxysporum,growth in culture,opt,25.0
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,27.5
+Fusarium oxysporum,growth in culture,opt,29.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,26.5
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,28.25
+Fusarium oxysporum,growth in culture,opt,28.25
+Fusarium oxysporum,growth in culture,opt,22.5
+Fusarium oxysporum,growth in culture,opt,26.0
+Fusarium oxysporum,growth in culture,opt,26.5
+Fusarium oxysporum,infection,max,35.0
+Fusarium oxysporum,infection,max,35.0
+Fusarium oxysporum,infection,min,10.0
+Fusarium oxysporum,infection,min,5.0
+Fusarium oxysporum,infection,min,18.0
+Fusarium oxysporum,infection,min,12.0
+Fusarium oxysporum,infection,min,18.0
+Fusarium oxysporum,infection,min,25.0
+Fusarium oxysporum,infection,opt,25.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,infection,opt,30.5
+Fusarium oxysporum,infection,opt,30.5
+Fusarium oxysporum,infection,opt,14.0
+Fusarium oxysporum,infection,opt,30.0
+Fusarium oxysporum,spore germination,max,39.0
+Fusarium oxysporum,spore germination,min,9.0
+Fusarium oxysporum,spore germination,opt,31.5
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,max,35.75
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,34.0
+Fusarium oxysporum,growth in culture,max,34.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,growth in culture,min,5.0
+Fusarium oxysporum,disease development,max,32.0
+Fusarium oxysporum,disease development,max,25.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,max,33.0
+Fusarium oxysporum,disease development,max,35.0
+Fusarium oxysporum,disease development,min,10.0
+Fusarium oxysporum,disease development,min,18.0
+Fusarium oxysporum,disease development,min,10.0
+Fusarium oxysporum,disease development,min,15.0
+Fusarium oxysporum,disease development,min,18.0
+Fusarium oxysporum,disease development,opt,25.5
+Fusarium oxysporum,disease development,opt,23.0
+Fusarium oxysporum,disease development,opt,30.5
+Fusarium oxysporum,disease development,opt,35.0
+Fusarium oxysporum,disease development,opt,32.5
+Fusarium oxysporum,growth in culture,max,36.0
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,37.5
+Fusarium oxysporum,growth in culture,max,38.0
+Fusarium oxysporum,growth in culture,max,39.0
+Fusarium oxysporum,growth in culture,max,37.75
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,min,13.0
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,min,7.5
+Fusarium oxysporum,growth in culture,min,10.0
+Fusarium oxysporum,growth in culture,opt,32.5
+Fusarium oxysporum,growth in culture,opt,25.0
+Fusarium oxysporum,growth in culture,opt,29.0
+Fusarium oxysporum,growth in culture,opt,31.0
+Fusarium oxysporum,growth in culture,opt,30.0
+Fusarium oxysporum,growth in culture,opt,32.0
+Fusarium oxysporum,infection,max,32.0
+Fusarium oxysporum,infection,max,25.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,max,33.0
+Fusarium oxysporum,infection,max,35.0
+Fusarium oxysporum,infection,min,10.0
+Fusarium oxysporum,infection,min,18.0
+Fusarium oxysporum,infection,min,10.0
+Fusarium oxysporum,infection,min,15.0
+Fusarium oxysporum,infection,min,18.0
+Fusarium oxysporum,infection,opt,25.5
+Fusarium oxysporum,infection,opt,23.0
+Fusarium oxysporum,infection,opt,30.5
+Fusarium oxysporum,infection,opt,35.0
+Fusarium oxysporum,infection,opt,32.5
+Fusarium oxysporum,sporulation,opt,32.5
+Fusarium oxysporum f.sp. conglutinans,disease development,max,34.0
+Fusarium oxysporum f.sp. conglutinans,disease development,max,34.0
+Fusarium oxysporum f.sp. conglutinans,disease development,min,22.0
+Fusarium oxysporum f.sp. conglutinans,disease development,min,19.5
+Fusarium oxysporum f.sp. conglutinans,disease development,min,16.5
+Fusarium oxysporum f.sp. conglutinans,disease development,min,17.0
+Fusarium oxysporum f.sp. conglutinans,disease development,min,17.0
+Fusarium oxysporum f.sp. conglutinans,disease development,min,24.0
+Fusarium oxysporum f.sp. conglutinans,disease development,min,24.0
+Fusarium oxysporum f.sp. conglutinans,disease development,opt,26.5
+Fusarium oxysporum f.sp. conglutinans,disease development,opt,26.5
+Fusarium oxysporum f.sp. conglutinans,disease development,opt,28.0
+Fusarium oxysporum f.sp. conglutinans,disease development,opt,28.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,max,35.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,max,34.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,max,37.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,max,35.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,max,35.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,min,7.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,min,5.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,min,5.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,min,11.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,min,7.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,opt,22.5
+Fusarium oxysporum f.sp. conglutinans,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. conglutinans,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. conglutinans,infection,max,34.0
+Fusarium oxysporum f.sp. conglutinans,infection,max,34.0
+Fusarium oxysporum f.sp. conglutinans,infection,min,19.5
+Fusarium oxysporum f.sp. conglutinans,infection,min,17.0
+Fusarium oxysporum f.sp. conglutinans,infection,min,17.0
+Fusarium oxysporum f.sp. conglutinans,infection,opt,26.5
+Fusarium oxysporum f.sp. conglutinans,infection,opt,26.5
+Fusarium oxysporum f.sp. cubense,growth in culture,max,35.75
+Fusarium oxysporum f.sp. cubense,growth in culture,max,35.75
+Fusarium oxysporum f.sp. cubense,growth in culture,min,5.0
+Fusarium oxysporum f.sp. cubense,growth in culture,min,5.0
+Fusarium oxysporum f.sp. cubense,growth in culture,opt,20.0
+Fusarium oxysporum f.sp. dianthi,growth in culture,min,10.0
+Fusarium oxysporum f.sp. dianthi,growth in culture,opt,35.0
+Fusarium oxysporum f.sp. gladioli,growth in culture,max,35.0
+Fusarium oxysporum f.sp. gladioli,growth in culture,min,5.0
+Fusarium oxysporum f.sp. gladioli,growth in culture,opt,27.5
+Fusarium oxysporum f.sp. lini,disease development,max,38.0
+Fusarium oxysporum f.sp. lini,disease development,max,38.0
+Fusarium oxysporum f.sp. lini,disease development,min,12.2
+Fusarium oxysporum f.sp. lini,disease development,min,12.0
+Fusarium oxysporum f.sp. lini,disease development,min,12.0
+Fusarium oxysporum f.sp. lini,disease development,min,12.5
+Fusarium oxysporum f.sp. lini,disease development,min,12.5
+Fusarium oxysporum f.sp. lini,disease development,opt,20.0
+Fusarium oxysporum f.sp. lini,disease development,opt,20.0
+Fusarium oxysporum f.sp. lini,growth in culture,max,35.5
+Fusarium oxysporum f.sp. lini,growth in culture,max,37.5
+Fusarium oxysporum f.sp. lini,growth in culture,max,35.5
+Fusarium oxysporum f.sp. lini,growth in culture,max,37.0
+Fusarium oxysporum f.sp. lini,growth in culture,max,37.0
+Fusarium oxysporum f.sp. lini,growth in culture,min,7.0
+Fusarium oxysporum f.sp. lini,growth in culture,min,10.5
+Fusarium oxysporum f.sp. lini,growth in culture,min,5.0
+Fusarium oxysporum f.sp. lini,growth in culture,min,10.5
+Fusarium oxysporum f.sp. lini,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lini,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lini,growth in culture,opt,24.0
+Fusarium oxysporum f.sp. lini,growth in culture,opt,27.0
+Fusarium oxysporum f.sp. lini,growth in culture,opt,27.0
+Fusarium oxysporum f.sp. lini,growth in culture,opt,29.25
+Fusarium oxysporum f.sp. lini,growth in culture,opt,29.25
+Fusarium oxysporum f.sp. lini,infection,max,38.0
+Fusarium oxysporum f.sp. lini,infection,max,38.0
+Fusarium oxysporum f.sp. lini,infection,min,12.2
+Fusarium oxysporum f.sp. lini,infection,min,12.0
+Fusarium oxysporum f.sp. lini,infection,min,12.0
+Fusarium oxysporum f.sp. lini,infection,min,12.5
+Fusarium oxysporum f.sp. lini,infection,min,12.5
+Fusarium oxysporum f.sp. lini,infection,opt,20.0
+Fusarium oxysporum f.sp. lini,infection,opt,20.0
+Fusarium oxysporum f.sp. lini,spore germination,max,35.0
+Fusarium oxysporum f.sp. lini,spore germination,min,7.0
+Fusarium oxysporum f.sp. lini,spore germination,opt,21.0
+Fusarium oxysporum f.sp. lini,spore germination,opt,30.0
+Fusarium oxysporum f.sp. lycopersici,disease development,max,33.0
+Fusarium oxysporum f.sp. lycopersici,disease development,max,33.0
+Fusarium oxysporum f.sp. lycopersici,disease development,max,33.0
+Fusarium oxysporum f.sp. lycopersici,disease development,max,33.0
+Fusarium oxysporum f.sp. lycopersici,disease development,max,33.0
+Fusarium oxysporum f.sp. lycopersici,disease development,min,21.0
+Fusarium oxysporum f.sp. lycopersici,disease development,min,21.0
+Fusarium oxysporum f.sp. lycopersici,disease development,min,21.0
+Fusarium oxysporum f.sp. lycopersici,disease development,min,21.0
+Fusarium oxysporum f.sp. lycopersici,disease development,min,21.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.5
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,29.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,disease development,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,37.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,37.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,37.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,38.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,38.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,37.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,37.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,32.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,max,35.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,9.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,9.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,6.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,6.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,5.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,5.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,min,10.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,29.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,28.5
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,25.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. lycopersici,infection,max,33.0
+Fusarium oxysporum f.sp. lycopersici,infection,max,33.0
+Fusarium oxysporum f.sp. lycopersici,infection,max,33.0
+Fusarium oxysporum f.sp. lycopersici,infection,max,33.0
+Fusarium oxysporum f.sp. lycopersici,infection,max,33.0
+Fusarium oxysporum f.sp. lycopersici,infection,min,21.0
+Fusarium oxysporum f.sp. lycopersici,infection,min,21.0
+Fusarium oxysporum f.sp. lycopersici,infection,min,21.0
+Fusarium oxysporum f.sp. lycopersici,infection,min,21.0
+Fusarium oxysporum f.sp. lycopersici,infection,min,21.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.5
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,29.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.0
+Fusarium oxysporum f.sp. lycopersici,infection,opt,28.0
+Fusarium oxysporum f.sp. medicaginis,growth in culture,max,37.5
+Fusarium oxysporum f.sp. medicaginis,growth in culture,min,3.0
+Fusarium oxysporum f.sp. medicaginis,growth in culture,opt,25.0
+Fusarium oxysporum f.sp. medicaginis,infection,opt,25.0
+Fusarium oxysporum f.sp. niveum,disease development,max,35.0
+Fusarium oxysporum f.sp. niveum,disease development,max,25.0
+Fusarium oxysporum f.sp. niveum,disease development,min,16.5
+Fusarium oxysporum f.sp. niveum,disease development,min,16.0
+Fusarium oxysporum f.sp. niveum,disease development,min,17.0
+Fusarium oxysporum f.sp. niveum,disease development,min,17.0
+Fusarium oxysporum f.sp. niveum,disease development,opt,20.0
+Fusarium oxysporum f.sp. niveum,disease development,opt,22.5
+Fusarium oxysporum f.sp. niveum,disease development,opt,27.5
+Fusarium oxysporum f.sp. niveum,disease development,opt,23.5
+Fusarium oxysporum f.sp. niveum,growth in culture,max,34.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,34.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,38.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,38.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,37.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,35.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,35.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,35.0
+Fusarium oxysporum f.sp. niveum,growth in culture,max,36.0
+Fusarium oxysporum f.sp. niveum,growth in culture,min,5.0
+Fusarium oxysporum f.sp. niveum,growth in culture,min,5.0
+Fusarium oxysporum f.sp. niveum,growth in culture,min,10.25
+Fusarium oxysporum f.sp. niveum,growth in culture,min,8.0
+Fusarium oxysporum f.sp. niveum,growth in culture,min,8.0
+Fusarium oxysporum f.sp. niveum,growth in culture,min,5.0
+Fusarium oxysporum f.sp. niveum,growth in culture,min,10.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,27.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,27.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,26.0
+Fusarium oxysporum f.sp. niveum,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. niveum,infection,max,35.0
+Fusarium oxysporum f.sp. niveum,infection,max,25.0
+Fusarium oxysporum f.sp. niveum,infection,min,16.5
+Fusarium oxysporum f.sp. niveum,infection,min,16.0
+Fusarium oxysporum f.sp. niveum,infection,min,17.0
+Fusarium oxysporum f.sp. niveum,infection,min,17.0
+Fusarium oxysporum f.sp. niveum,infection,min,20.0
+Fusarium oxysporum f.sp. niveum,infection,opt,20.0
+Fusarium oxysporum f.sp. niveum,infection,opt,22.5
+Fusarium oxysporum f.sp. niveum,infection,opt,27.5
+Fusarium oxysporum f.sp. niveum,infection,opt,23.5
+Fusarium oxysporum f.sp. niveum,spore germination,max,40.0
+Fusarium oxysporum f.sp. niveum,spore germination,max,36.0
+Fusarium oxysporum f.sp. niveum,spore germination,min,10.0
+Fusarium oxysporum f.sp. niveum,spore germination,opt,30.0
+Fusarium oxysporum f.sp. niveum,spore germination,opt,28.0
+Fusarium oxysporum f.sp. pisi,disease development,max,30.0
+Fusarium oxysporum f.sp. pisi,disease development,min,11.0
+Fusarium oxysporum f.sp. pisi,disease development,min,14.0
+Fusarium oxysporum f.sp. pisi,disease development,opt,21.0
+Fusarium oxysporum f.sp. pisi,disease development,opt,21.0
+Fusarium oxysporum f.sp. pisi,disease development,opt,24.0
+Fusarium oxysporum f.sp. pisi,growth in culture,max,34.5
+Fusarium oxysporum f.sp. pisi,growth in culture,min,7.25
+Fusarium oxysporum f.sp. pisi,growth in culture,min,7.0
+Fusarium oxysporum f.sp. pisi,growth in culture,min,9.0
+Fusarium oxysporum f.sp. pisi,growth in culture,opt,28.5
+Fusarium oxysporum f.sp. pisi,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. pisi,growth in culture,opt,28.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,max,32.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,max,25.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,max,33.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,max,33.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,max,35.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,min,10.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,min,18.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,min,10.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,min,15.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,min,18.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,opt,25.5
+Fusarium oxysporum f.sp. vasinfectum,disease development,opt,23.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,opt,30.5
+Fusarium oxysporum f.sp. vasinfectum,disease development,opt,35.0
+Fusarium oxysporum f.sp. vasinfectum,disease development,opt,32.5
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,max,36.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,max,37.5
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,max,37.5
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,max,38.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,max,39.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,max,37.75
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,min,7.5
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,min,13.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,min,10.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,min,7.5
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,min,10.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,opt,32.5
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,opt,25.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,opt,29.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,opt,31.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,opt,30.0
+Fusarium oxysporum f.sp. vasinfectum,growth in culture,opt,32.0
+Fusarium oxysporum f.sp. vasinfectum,infection,max,32.0
+Fusarium oxysporum f.sp. vasinfectum,infection,max,25.0
+Fusarium oxysporum f.sp. vasinfectum,infection,max,33.0
+Fusarium oxysporum f.sp. vasinfectum,infection,max,33.0
+Fusarium oxysporum f.sp. vasinfectum,infection,max,35.0
+Fusarium oxysporum f.sp. vasinfectum,infection,min,10.0
+Fusarium oxysporum f.sp. vasinfectum,infection,min,18.0
+Fusarium oxysporum f.sp. vasinfectum,infection,min,10.0
+Fusarium oxysporum f.sp. vasinfectum,infection,min,15.0
+Fusarium oxysporum f.sp. vasinfectum,infection,min,18.0
+Fusarium oxysporum f.sp. vasinfectum,infection,opt,25.5
+Fusarium oxysporum f.sp. vasinfectum,infection,opt,23.0
+Fusarium oxysporum f.sp. vasinfectum,infection,opt,30.5
+Fusarium oxysporum f.sp. vasinfectum,infection,opt,35.0
+Fusarium oxysporum f.sp. vasinfectum,infection,opt,32.5
+Fusarium oxysporum f.sp. vasinfectum,sporulation,opt,32.5
+Fusarium pallidoroseum,growth in culture,max,37.5
+Fusarium pallidoroseum,growth in culture,max,37.5
+Fusarium pallidoroseum,growth in culture,max,37.5
+Fusarium pallidoroseum,growth in culture,max,37.5
+Fusarium pallidoroseum,growth in culture,min,5.0
+Fusarium pallidoroseum,growth in culture,min,5.0
+Fusarium pallidoroseum,growth in culture,min,5.0
+Fusarium pallidoroseum,growth in culture,min,5.0
+Fusarium pallidoroseum,growth in culture,opt,34.0
+Fusarium pallidoroseum,growth in culture,opt,34.0
+Fusarium pallidoroseum,growth in culture,opt,34.0
+Fusarium pallidoroseum,growth in culture,opt,34.0
+Fusarium poae,growth in culture,max,35.75
+Fusarium poae,growth in culture,max,35.75
+Fusarium poae,growth in culture,max,37.0
+Fusarium poae,growth in culture,max,37.0
+Fusarium poae,growth in culture,max,37.0
+Fusarium poae,growth in culture,min,5.0
+Fusarium poae,growth in culture,min,5.0
+Fusarium poae,growth in culture,min,5.0
+Fusarium poae,growth in culture,min,5.0
+Fusarium poae,growth in culture,min,5.0
+Fusarium poae,growth in culture,opt,22.5
+Fusarium poae,growth in culture,opt,22.5
+Fusarium poae,growth in culture,opt,22.5
+Fusarium polymorphum,growth in culture,max,34.0
+Fusarium polymorphum,growth in culture,min,5.0
+Fusarium redolens,growth in culture,max,37.5
+Fusarium redolens,growth in culture,max,35.75
+Fusarium redolens,growth in culture,max,37.0
+Fusarium redolens,growth in culture,min,5.0
+Fusarium redolens,growth in culture,min,5.0
+Fusarium redolens,growth in culture,min,5.0
+Fusarium redolens,growth in culture,opt,22.5
+Fusarium roseum,disease development,max,25.0
+Fusarium roseum,disease development,max,30.0
+Fusarium roseum,disease development,max,30.0
+Fusarium roseum,disease development,max,38.0
+Fusarium roseum,disease development,min,0.0
+Fusarium roseum,disease development,min,0.0
+Fusarium roseum,disease development,min,0.0
+Fusarium roseum,disease development,min,0.0
+Fusarium roseum,disease development,opt,17.5
+Fusarium roseum,disease development,opt,10.0
+Fusarium roseum,disease development,opt,15.0
+Fusarium roseum,growth in culture,max,37.5
+Fusarium roseum,growth in culture,max,37.5
+Fusarium roseum,growth in culture,min,21.0
+Fusarium roseum,growth in culture,min,5.0
+Fusarium roseum,growth in culture,min,5.0
+Fusarium roseum,growth in culture,opt,27.0
+Fusarium roseum,infection,max,25.0
+Fusarium roseum,infection,max,30.0
+Fusarium roseum,infection,max,30.0
+Fusarium roseum,infection,max,38.0
+Fusarium roseum,infection,min,0.0
+Fusarium roseum,infection,min,0.0
+Fusarium roseum,infection,min,0.0
+Fusarium roseum,infection,min,0.0
+Fusarium roseum,infection,opt,17.5
+Fusarium roseum,infection,opt,10.0
+Fusarium roseum,infection,opt,15.0
+Fusarium roseum,infection,opt,20.0
+Fusarium rubrum,growth in culture,max,35.0
+Fusarium rubrum,growth in culture,min,19.0
+Fusarium sporotrichioides,growth in culture,max,33.0
+Fusarium sporotrichioides,growth in culture,min,3.0
+Fusarium sporotrichioides,growth in culture,opt,24.0
+Fusarium sporotrichioides,sporulation,max,33.0
+Fusarium sporotrichioides,sporulation,min,8.0
+Fusarium sporotrichioides,sporulation,opt,23.0
+Fusarium sulphureum,growth in culture,max,34.0
+Fusarium sulphureum,growth in culture,max,34.0
+Fusarium sulphureum,growth in culture,max,34.0
+Fusarium sulphureum,growth in culture,min,5.0
+Fusarium sulphureum,growth in culture,min,5.0
+Fusarium sulphureum,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,max,30.0
+Fusarium trichothecioides,growth in culture,max,30.0
+Fusarium trichothecioides,growth in culture,max,30.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,37.5
+Fusarium trichothecioides,growth in culture,max,34.0
+Fusarium trichothecioides,growth in culture,max,37.5
+Fusarium trichothecioides,growth in culture,max,30.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,min,5.0
+Fusarium trichothecioides,growth in culture,opt,25.0
+Fusarium trichothecioides,growth in culture,opt,25.0
+Fusarium trichothecioides,growth in culture,opt,25.0
+Fusarium trichothecioides,growth in culture,opt,34.0
+Fusarium trichothecioides,growth in culture,opt,21.0
+Fusarium trichothecioides,growth in culture,opt,24.5
+Fusarium trichothecioides,disease development,min,2.0
+Fusarium trichothecioides,disease development,opt,18.5
+Fusarium trichothecioides,infection,opt,11.0
+Fusarium tricinctum,disease development,max,30.0
+Fusarium tricinctum,disease development,max,38.0
+Fusarium tricinctum,disease development,min,5.0
+Fusarium tricinctum,disease development,min,2.5
+Fusarium tricinctum,disease development,min,0.0
+Fusarium tricinctum,disease development,opt,25.0
+Fusarium tricinctum,disease development,opt,15.0
+Fusarium tricinctum,disease development,opt,20.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,34.0
+Fusarium tricinctum,growth in culture,max,37.0
+Fusarium tricinctum,growth in culture,max,37.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,min,5.0
+Fusarium tricinctum,growth in culture,opt,17.5
+Fusarium tricinctum,growth in culture,opt,17.5
+Fusarium tricinctum,growth in culture,opt,22.5
+Fusarium tricinctum,growth in culture,opt,22.5
+Fusarium tricinctum,infection,opt,20.0
+Fusarium verticillioides,growth in culture,min,9.0
+Fusarium verticillioides,growth in culture,opt,30.0
