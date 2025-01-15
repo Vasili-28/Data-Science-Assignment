@@ -6,7 +6,7 @@ This is code (notebook.ipynb) in order to curate and analyse temperature data fo
 To run:
   1. Donwload all avalaible files in the repositary into a working directory or just the notebook
   2. For full dataset then refer to 'https://raw.githubusercontent.com/Vasili-28/Data-Science-Assignment/refs/heads/main/Supplementary_Data_Togashi_FINAL.csv' or download it from the repositary
-  3. For 'Fusarium only' dataset then refer to 'https://raw.githubusercontent.com/Vasili-28/Data-Science-Assignment/refs/heads/main/filtered_fusarium_species.csv' or download it from the repositary
+  3. For 'Fusarium only' dataset then refer to 'https://raw.githubusercontent.com/Vasili-28/Data-Science-Assignment/refs/heads/main/filtered_fusarium_species.csv' or download it from the repositary. If using the Fusarium only dataset, then skip Set Up section of the notebook.ipynb and use the url or download it from the repositary
   4. Import all necessary libraries (run first cell of the notebook,ipynb) which include:
      - pandas
      - matplotlib.pyplot
@@ -15,7 +15,7 @@ To run:
      - from scipy.stats import kruskal
      - from scipy.stats import mannwhitneyu
      - from itertools import combinations
-  5. Change the final dataset with other avaible varaibles in the dataset if necessary
+  5. Change the final dataset with other avalaible varaibles in the dataset if necessary
   6. Edit code to ensure you subset the genus or species for different phytopathogens
   7. If downloading .png files then edit image name
   8. End of the notebook contains optional code for a pairwise comparison test if Kruskall Wallis test is significant for further analysis
