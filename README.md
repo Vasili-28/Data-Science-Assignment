@@ -1,13 +1,13 @@
 # Data Science Assignment - Togashi Dataset
 This is the repositary for the Data Science Assignment
 
-This is code in order to curate and analyse temperature data for 695 phytopathogenic microbes from the Togashi dataset. Mainly, to be used to create references for future lab experiments and models. Specifically, the code was used to curate a dataset for the cardinal temperatures (maximum, minimum, and optimimum) of Fusarium species and identify if these temperature ranges are influenced by life processes of the pathogens. However, code can be used for other phytopathogens. For more information on the dataset then refer to: https://datadryad.org/stash/dataset/doi:10.5061/dryad.tqjq2bvw6#methods
+This is code (notebook.ipynb) in order to curate and analyse temperature data for 695 phytopathogenic microbes from the Togashi dataset. Mainly, to be used to create references for future lab experiments and models. Specifically, the code was used to curate a dataset for the cardinal temperatures (maximum, minimum, and optimimum) of Fusarium species and identify if these temperature ranges are influenced by life processes of the pathogens. However, code can be used for other phytopathogens. For more information on the dataset then refer to: https://datadryad.org/stash/dataset/doi:10.5061/dryad.tqjq2bvw6#methods
 
 To run:
   1. Donwload all avalaible files in the repositary into a working directory or just the notebook
   2. For full dataset then refer to 'https://raw.githubusercontent.com/Vasili-28/Data-Science-Assignment/refs/heads/main/Supplementary_Data_Togashi_FINAL.csv' or download it from the repositary
   3. For 'Fusarium only' dataset then refer to 'https://raw.githubusercontent.com/Vasili-28/Data-Science-Assignment/refs/heads/main/filtered_fusarium_species.csv' or download it from the repositary
-  4. Import all necessary libraries (run first cell of the notebook) which include:
+  4. Import all necessary libraries (run first cell of the notebook,ipynb) which include:
      - pandas
      - matplotlib.pyplot
      - seaborn
