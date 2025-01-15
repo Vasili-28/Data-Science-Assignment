@@ -1,7 +1,7 @@
 # Data Science Assignment - Togashi Dataset
 This is the repositary for the Data Science Assignment
 
-This is code in order to curate and analyse temperature data for 695 phytopathogenic microbes from the Togashi dataset. Specifically, the code was used to curate a dataset for the cardinal temperatures (maximum, minimum, and optimimum) of Fusarium species and identify if these temperature ranges are influenced by life processes of the pathogens. For more information on the dataset then refer to: https://datadryad.org/stash/dataset/doi:10.5061/dryad.tqjq2bvw6#methods
+This is code in order to curate and analyse temperature data for 695 phytopathogenic microbes from the Togashi dataset. Mainly, to be used to create references for future lab experiments and models. Specifically, the code was used to curate a dataset for the cardinal temperatures (maximum, minimum, and optimimum) of Fusarium species and identify if these temperature ranges are influenced by life processes of the pathogens. However, code can be used for other phytopathogens. For more information on the dataset then refer to: https://datadryad.org/stash/dataset/doi:10.5061/dryad.tqjq2bvw6#methods
 
 To run:
   1. Donwload all avalaible files in the repositary into a working directory or just the notebook
